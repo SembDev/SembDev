@@ -1,5 +1,16 @@
-<div>
-<a href="https://github.com/SembDev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+```js
+import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
+}
+```
