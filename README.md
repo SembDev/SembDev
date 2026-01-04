@@ -2,7 +2,7 @@
   <img src="https://znoydzem.com/images/category/javadeveloper.jpg" alt="Software Developer">
 </div>
 
-# SembDev
+# Eduardo Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
