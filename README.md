@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codesphere-community/Java/main/Java.webp" alt="Software Developer">
+  <img src="https://znoydzem.com/images/category/javadeveloper.jpg" alt="Software Developer">
 </div>
 
 # SembDev
