@@ -8,9 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EduardoJms-blue?logo=linkedin)](https://www.linkedin.com/in/Eduardo)
 
 
-## 👋 Olá!
+## 👋 Bem vindo!
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Ola! <p>sou um estudante de Analise e Desenvolvimento de Sistemas, sou fascinado e apaixonado por tecnologia desde pequeno.<br></p>
+
+
 
 ## 🚀 Habilidades Técnicas
 
