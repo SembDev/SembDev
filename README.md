@@ -11,10 +11,8 @@
 ## 👋 Bem vindo!
 
 Ola! 
-<p>Sou um estudante de Analise e Desenvolvimento de Sistemas, sou fascinado e apaixonado por tecnologia desde pequeno.<br>
-Sou esforçado e estou focado no Java, desenvolvimento Back-End.
-
-
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia desde cedo e atualmente focado em <strong>desenvolvimento Back-End com Java</strong>.<br>
+Tenho perfil <strong>dedicado</strong>, <strong>consistente</strong> e <strong>orientado a aprendizado</strong>, buscando oportunidades para aplicar e evoluir minhas habilidades em projetos reais.
 </p>
 
 
