@@ -5,7 +5,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/Eduardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EduardoJms-blue?logo=linkedin)](https://www.linkedin.com/in/Eduardo)
 
 
 ## 👋 Olá!
