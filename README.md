@@ -10,7 +10,13 @@
 
 ## 👋 Bem vindo!
 
-Ola! <p>sou um estudante de Analise e Desenvolvimento de Sistemas, sou fascinado e apaixonado por tecnologia desde pequeno.<br></p>
+Ola! 
+<p>Sou um estudante de Analise e Desenvolvimento de Sistemas, sou fascinado e apaixonado por tecnologia desde pequeno.<br>
+Sou esforçado e estou focado no Java, desenvolvimento Back-End.
+
+
+</p>
+
 
 
 
