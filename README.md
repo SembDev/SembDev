@@ -3,7 +3,7 @@
 </div>
 
 
-<div style="color: blue"># Dev.Semb</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/Eduardo)
 
