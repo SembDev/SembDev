@@ -2,7 +2,8 @@
   <img src="https://znoydzem.com/images/category/javadeveloper.jpg" alt="Software Developer">
 </div>
 
-## Dev.Semb
+
+<div style="color-red"># Dev.Semb</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/Eduardo)
 
@@ -24,7 +25,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
